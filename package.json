@@ -1,5 +1,5 @@
 {
-  "name": "process-manager",
+  "name": "@singularitycreations/process-manager",
   "version": "1.0.0",
   "description": "Process manager module only for Windows enviroment.",
   "main": "index.js",
@@ -25,5 +25,9 @@
   "dependencies": {
     "eslint": "^5.15.3",
     "moment": "^2.24.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }

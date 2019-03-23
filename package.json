@@ -1,6 +1,6 @@
 {
   "name": "@singularitycreations/process-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process manager module only for Windows enviroment.",
   "main": "index.js",
   "scripts": {

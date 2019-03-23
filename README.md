@@ -10,7 +10,7 @@ $ npm i @singularitycreations/process-manager
 ```
 
 ```js
-const ProcessManager = require('@singularitycreations/process-manager');
+const { ProcessManager } = require('@singularitycreations/process-manager');
 
 (async () => {
     try {        
